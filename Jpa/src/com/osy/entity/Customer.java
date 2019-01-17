@@ -8,7 +8,7 @@ import javax.persistence.Id;
 import javax.persistence.Table;
 
 /**
-* @author 作者 E-mail:
+* @author 作者 E-mail1:
 * @version 创建时间：2019年1月16日 上午10:17:09
 * 类说明
 */
